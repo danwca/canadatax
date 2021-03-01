@@ -1,1 +1,18 @@
-# canadatax
+# Canada Tax
+
+
+## 政策
+
+### [Ontario energy and property tax credit (OEPTC)](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/provincial-territorial-programs/ontario-energy-property-tax-credit-questions-answers.html)
+最多$1,247（老人）/年，$1.095（年轻人）/年（以下以年轻人为例）；
+包括两部分：the energy component（最多$243），property tax component（最多$852=$791+$61）
+
+预测补助 = min(最多$1,247, 补助计算)
+门槛值=(净收入+$24,115) X 2%
+实际补助 =  预测补助 - 门槛值
+
+[Ontario Energy and Property Tax Credit (OEPTC) Calculation Sheets](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/provincial-territorial-programs/ontario-energy-property-tax-credit-oeptc-calculation-sheets.html)
+
+
+
+
